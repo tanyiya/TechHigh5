@@ -7,6 +7,6 @@ After the online meeting, we created a WhatsApp group. This group includes our l
 
 In addition to interviews and group discussions, our methodology also encompassed an unobtrusive approach through observation. We closely observed systems similar to KADA's, comparing their processes to those currently employed by KADA. This comparative analysis allowed us to understand the unique characteristics and advantages of each approach. Furthermore, we directly observed KADA's existing systems, contemplating how manual processes could be seamlessly integrated into a unified system to better serve their organisation. This observational component proved invaluable in our effort to comprehensively understand KADA's operational landscape and identify opportunities for system enhancement.
 
-The systems that we observed include:
-[https://edaftar.skm.gov.my](https://edaftar.skm.gov.my)
+The systems that we observed include:  
+[https://edaftar.skm.gov.my](https://edaftar.skm.gov.my)  
 [http://www.kada.gov.my/](http://www.kada.gov.my/)
